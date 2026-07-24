@@ -1,5 +1,15 @@
  # 💫 About Me:
 # Hey 👋 I'm Aman Kumar<br><br>CSE student focused on AI Engineering, Backend Development, and Machine Learning.  
+ <!-- Profile Views Badge 
+  <p align="center">
+  <a href="https://github.com/Amankumar140">
+    <img
+      src="https://komarev.com/ghpvc/?username=Amankumar140&label=Profile+Views&color=0e75b6&style=for-the-badge"
+      alt="Profile Views"
+    />
+  </a>
+</p>
+-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amankumar140426/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/the_amankumar_) 
